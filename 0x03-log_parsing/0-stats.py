@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 '''log parser algorithm'''
 
+
 if __name__ == '__main__':
 
     import sys
